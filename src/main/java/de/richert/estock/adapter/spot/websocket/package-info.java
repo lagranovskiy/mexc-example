@@ -1,0 +1,1 @@
+package de.richert.estock.adapter.spot.websocket;

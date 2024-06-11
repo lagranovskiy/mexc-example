@@ -19,8 +19,8 @@ public class UserDataClient {
 
   private static final OkHttpClient OK_HTTP_CLIENT = createOkHttpClient();
 
-  private static final String accessKey = "-----";
-  private static final String secretKey = "-----";
+  private static final String accessKey = "---";
+  private static final String secretKey = "---";
 
   private static OkHttpClient createOkHttpClient() {
     HttpLoggingInterceptor httpLoggingInterceptor = new HttpLoggingInterceptor();
